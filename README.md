@@ -5,7 +5,7 @@
 <a href="https://github.com/Raikasenka/Journal-LucLosier/blob/main/Javascript.md">Javascript</a>
 
 # Racket
-<a href="https://github.com/Raikasenka/Journal-LucLosier/blob/main/Racket.md">Racket</a>
+<a href="https://github.com/CS2613-WI2023/journal-Raikasenka/blob/main/Racket.md">Racket</a>
 
 # Matlab/Octave
 <details><summary>Matlab Section</summary>
