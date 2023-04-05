@@ -8,10 +8,7 @@
 <a href="https://github.com/CS2613-WI2023/journal-Raikasenka/blob/main/Racket.md">Racket</a>
 
 # Matlab/Octave
-<details><summary>Matlab Section</summary>
-<p>
-</p>
-</details>
+<a href="https://github.com/CS2613-WI2023/journal-Raikasenka/blob/main/Matlab.md">Matlab</a>
 
 # Marking Rubric
 <details><summary>Marking Rubric on hand</summary>
